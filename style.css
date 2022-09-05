@@ -1,0 +1,22 @@
+body {
+    width: 390px;
+    height: 90px;
+    background-color:#333;
+    box-shadow: 0px 2px 20px 2px rgb(0 0 0 / 50%);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 0 10px 5px 10px;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 15px;
+    font-weight: 180;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+    border-radius: 6px;
+   
+    padding: 10px;
+}
